@@ -1,14 +1,14 @@
 # nodeschool-learnyounode
 Workshop open source lesson modules by NodeSchool. This repo is a self guide to learning Node.js
 
-#EASY
+# EASY
 Work through the learnyounode workshop lessons and screenshot your completed exercises 1-5. Information available at  https://nodeschool.io/  and https://github.com/workshopper/learnyounode 
 
-#MEDIUM
+# MEDIUM
 Create a node application that will read all of the planets in the solar system from a text file and print them to the console.
 Text file: mercury, venus, earth, mars, jupiter, saturn ,uranus, neptune, pluto (I still believe in you pluto) 
 
-#HARD
+# HARD
 Create a JSON file that will have 10 employees in it, their employeeID, their name, their salary and department name.
 Then, create an express API so that when you hit the endpoint with a GET request we want the api to respond with all data on the employees.
 If you hit the endpoint with their employeeID, we want to hand up only the information on that one employee.
